@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-multi-carrier-rate-card-dim-factor-arbitrage-skill",
+  "version": "1.0.0",
+  "title": "Multi-Carrier Rate-Card Dimensional Weight (DIM) Arbitrage Skill",
+  "category": "Agentic Commerce (Carrier Contract Negotiations)",
+  "description": "Compares parcel shipping rate cards across FedEx, UPS, and regional carriers, calculating dimensional weight differences across divisor rules (139 vs 166 vs 250) to minimize shipping expense.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "arbitrage_multi_carrier_dim_rate_cards"
+  ],
+  "dependencies": []
+}
